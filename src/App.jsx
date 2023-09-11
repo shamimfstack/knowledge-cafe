@@ -1,5 +1,7 @@
 
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import Bookmarks from './components/Body/Bookmarks'
 import Header from './components/Header/Header'
 
 function App() {
@@ -8,7 +10,11 @@ function App() {
   return (
     <div>
       <Header></Header>
-      <h1 className='text-4xl'>Knowledge Cafe</h1>
+      <div className='max-w-7xl mx-auto md:flex  gap-6'>
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </div>
+      
 
       
     </div>

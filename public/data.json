@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "name": "The Enigmatic Cipher",
+        "cover_img": "https://i.ibb.co/vdQMxh9/img1.jpg",
+        "title": "Secrets of the Lost Ark",
+        "author_img": "[Link to Author Image]",
+        "posted_date": "September 3, 2023",
+        "reading_time": 12,
+        "hashtag": "#MysteryAdventure"
+    },
+    {
+        "id": 67890,
+        "name": "Galactic Explorers",
+        "cover_img": "https://i.ibb.co/nnNZFNF/img2.jpg",
+        "title": "Journey to Andromeda",
+        "author_img": "[Link to Author Image]",
+        "posted_date": "August 25, 2023",
+        "reading_time": 18,
+        "hashtag": "#SciFiAdventure"
+    },
+    {
+        "id": 54321,
+        "name": "Culinary Chronicles",
+        "cover_img": "https://i.ibb.co/nnNZFNF/img2.jpg",
+        "title": "A Taste of Paris",
+        "author_img": "[Link to Author Image]",
+        "posted_date": "September 7, 2023",
+        "reading_time": 10,
+        "hashtag": "#FoodieDelights"
+    },
+    {
+        "id": 98765,
+        "name": "Historical Mysteries",
+        "cover_img": "https://i.ibb.co/vdQMxh9/img1.jpg",
+        "title": "The Lost Diaries of Leonardo",
+        "author_img": "[Link to Author Image]",
+        "posted_date": "August 29, 2023",
+        "reading_time": 15,
+        "hashtag": "#HistoricalEnigmas"
+    },
+    {
+        "id": 23456,
+        "name": "Wellness Wonders",
+        "cover_img": "https://i.ibb.co/vdQMxh9/img1.jpg",
+        "title": "Mindful Living: Finding Inner Peace",
+        "author_img": "[Link to Author Image]",
+        "posted_date": "September 1, 2023",
+        "reading_time": 8,
+        "hashtag": "#SelfCareJourney"
+    }
+]
